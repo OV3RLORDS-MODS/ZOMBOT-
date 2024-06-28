@@ -11,6 +11,4 @@ Customization:
 Modify server details like title, description, image URL, max players, and website as needed using dedicated commands.
 User-Friendly Commands:
 
-Simple command structures make it easy to manage server information directly from Discord.
-
-- Invite Bot: https://discord.com/oauth2/authorize?client_id=1253907871566139442&permissions=1126984386607168&integration_type=0&scope=bot
+![ZOMBot Image](./Screenshot_2024-06-28_214441.png)
