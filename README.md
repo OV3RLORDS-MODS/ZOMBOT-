@@ -18,3 +18,8 @@ Interactive and Informative Embeds:
 
 Receive updates and confirmations through visually appealing embeds that include server details and customizable footers.
 ZOMBot aims to enhance your Project Zomboid server management experience on Discord by providing streamlined information updates and easy accessibility to server details.
+
+Invite The Bot: 
+https://discord.com/oauth2/authorize?client_id=1253907871566139442&permissions=1126984386607168&integration_type=0&scope=bot
+
+ZOMBOT DISCORD: https://discord.gg/FXdDgTctzs
