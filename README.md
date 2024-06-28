@@ -25,9 +25,10 @@ https://discord.com/oauth2/authorize?client_id=1253907871566139442&permissions=1
 
 -------------Commands:
 
-Copy code
 !add_server <IP Address> <Port> <Mods Count> "<Server Title>" "<Server Description>" "<Image URL>"
-View Server Info:
+
+
+-------------View Server Info:
 
 !server
 Update Server Details:
