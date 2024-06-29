@@ -46,5 +46,8 @@ Rules Management:
 !reply_ticket <Ticket Number> "Your message": Reply to a support ticket.
 !view_tickets: View all support tickets.
 
-My Discord:
+ZOMBOT Discord:
 https://discord.gg/FXdDgTctzs
+
+Invite Bot: 
+https://discord.com/oauth2/authorize?client_id=1253907871566139442&permissions=1126984386607168&integration_type=0&scope=bot
