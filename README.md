@@ -1,51 +1,88 @@
-ZOMBOT is a versatile and powerful Discord bot designed to enhance your server's experience with an array of features. Whether you're managing a gaming community, a social hub, or any kind of group, ZOMBOT provides tools to keep everything running smoothly.
+(THERE IS NOTING TO DOWNLOAD. YOU MUST INVITE THE BOT TO YOUR DISCORD SERVER)
 
-Key Features:
+ZOMBOT is a robust Discord bot crafted to elevate your server's functionality with a rich array of features. Whether you're stewarding a vibrant gaming community, managing a bustling social hub, or nurturing any type of group, ZOMBOT offers indispensable tools to ensure seamless operation.
 
--Server Management:
-Add and Manage Server Information:
-Add your server's IP address, port, mods count, title, description, and an image URL using simple commands.
-Edit server details like the title, description, and image URL anytime.
+------------------------------------------------------------------------------------------------------
 
--Community Engagement:
-Rules Management:
-Add and display your server rules easily with commands.
-Edit the rules anytime to keep your community informed.
+Feature Highlights:
 
--Support Tickets:
-Create and manage support tickets to help users with issues or questions.
-Reply to tickets and keep track of all support requests.
+✅ Custom Posts
+Create beautifully embedded messages in any channel.
+------------------------------------------------------------------------------------------------------
+🛠️ Moderation Tools
+Ensure a well-moderated server environment.
 
--How It Works:
-Simple Commands: Intuitive commands make it easy for admins and users to interact with the bot.
+Anti-Spam: Automatically filters out all shared links across channels.
+Support Tickets: Establishes a ticket system for efficient Discord support.
 
--Getting Started:
-Add the Bot to Your Server:
+------------------------------------------------------------------------------------------------------
 
-Follow the simple steps to invite ZOMBOT to your Discord server.
+🔄 Setup Bank
+Manage your community's economy with ease.
 
-Use Commands: Use the provided commands to set up your server information, rules, and more.
+Check your balance using !balance
+Deposit funds with !deposit
+Withdraw funds using !withdraw
+Transfer money with !transfer
+Apply for loans using !loan
+Make investments using !invest
+View transaction history with !history
+Perform currency exchange using !exchange
+------------------------------------------------------------------------------------------------------
 
-Enjoy: Let the bot help you manage your server, engage with your community, and provide support.
+To enhance the description regarding the bot's ability to check if mods require other mods to function properly, you can add a section that highlights this feature. Here’s how you can integrate it into your Steam Workshop page description:
 
-Server Information:
-!add_server <IP Address> <Port> <Mods Count> "Server Title" "Server Description" "Image URL": Add your server.
-!server: Display current server information.
-!edit_title "New Title": Edit server title.
-!edit_description "New Description": Edit server description.
-!change_image "New Image URL": Change server image.
-!edit_max_players <New Max Players>: Edit the maximum number of players.
-!edit_website "New Website URL": Edit the server website.
-Rules Management:
+Welcome to ZOMBOT for Discord!
 
-!add_rules "Rule Title" "Rule Description": Add server rules.
-!rules: Display current rules.
-!edit_rule_title "New Title": Edit rule title.
-!edit_rule_description "New Description": Edit rule description
-!support "Ticket Title" "Ticket Description": Create a support ticket.
-!reply_ticket <Ticket Number> "Your message": Reply to a support ticket.
-!view_tickets: View all support tickets.
+ZOMBOT is a robust Discord bot crafted to elevate your server's functionality with a rich array of features. Whether you're stewarding a vibrant gaming community, managing a bustling social hub, or nurturing any type of group, ZOMBOT offers indispensable tools to ensure seamless operation.
 
+Feature Highlights:
+
+✅ Custom Posts
+Create beautifully embedded messages in any channel.
+
+🛠️ Moderation Tools
+Ensure a well-moderated server environment.
+
+Anti-Spam: Automatically filters out all shared links across channels.
+Support Tickets: Establishes a ticket system for efficient Discord support.
+🔄 Setup Bank
+Manage your community's economy with ease.
+
+Check your balance using !balance
+Deposit funds with !deposit
+Withdraw funds using !withdraw
+Transfer money with !transfer
+Apply for loans using !loan
+Make investments using !invest
+View transaction history with !history
+Perform currency exchange using !exchange
+Setup Jobs
+Engage users with ways to earn in-server currency.
+
+-Crime
+-Work
+-Hack
+------------------------------------------------------------------------------------------------------
+Setup Mods = Modlist
+
+People add suggest mods to be added/changed/removed and the server owner can mark them as installed also the
+bot uses only https://steamcommunity.com/sharedfiles/
+
+------------------------------------------------------------------------------------------------------
+Curate your server with community-suggested mods.
+
+Users suggest mods via HTTPS Steam Workshop links.
+Server owner marks mods as installed.
+Mod Compatibility: ZOMBOT verifies if mods require other mods to function properly, ensuring seamless integration and compatibility within your server.
+
+
+ZOMBOT DISCORD:
+
+I've established a dedicated Discord server for ongoing development and feature requests for the ZOMBOT game server management bot. Stay updated on new features, share your feedback, and connect with fellow enthusiasts!
+
+Invite Bot:
+(COMING SOON)
 ZOMBOT Discord:
 https://discord.gg/FXdDgTctzs
 
