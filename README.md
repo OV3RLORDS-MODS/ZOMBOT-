@@ -1,85 +1,58 @@
-(THERE IS NOTING TO DOWNLOAD. YOU MUST INVITE THE BOT TO YOUR DISCORD SERVER)
+ZOMBOT - Your all-in-one bot for community, moderation, and game server integration.
 
-ZOMBOT is a robust Discord bot crafted to elevate your server's functionality with a rich array of features. Whether you're stewarding a vibrant gaming community, managing a bustling social hub, or nurturing any type of group, ZOMBOT offers indispensable tools to ensure seamless operation.
+🤖 ZOMBOT is a robust Discord bot designed to enhance your server's functionality with a rich array of features. Whether you're managing a vibrant gaming community, a bustling social hub, or any type of group, ZOMBOT offers indispensable tools for seamless operation.
 
-------------------------------------------------------------------------------------------------------
+🔗 GitHub:
+https://github.com/OV3RLORDS-MODS/ZOMBOT-
 
-Feature Highlights:
+After inviting the bot:
 
-✅ Custom Posts
-Create beautifully embedded messages in any channel.
-------------------------------------------------------------------------------------------------------
-🛠️ Moderation Tools
-Ensure a well-moderated server environment.
+Start by using the !bot-setup command to get started. It will guide you through the setup process.
 
-Anti-Spam: Automatically filters out all shared links across channels.
-Support Tickets: Establishes a ticket system for efficient Discord support.
+✅ Community Tools
 
-------------------------------------------------------------------------------------------------------
+Enhance your Discord server with new features:
 
-🔄 Setup Bank
-Manage your community's economy with ease.
+1️⃣ Setup Roles
 
-Check your balance using !balance
-Deposit funds with !deposit
-Withdraw funds using !withdraw
-Transfer money with !transfer
-Apply for loans using !loan
-Make investments using !invest
-View transaction history with !history
-Perform currency exchange using !exchange
-------------------------------------------------------------------------------------------------------
+Initiate a role system where users can assign themselves roles by reacting to messages.
 
-To enhance the description regarding the bot's ability to check if mods require other mods to function properly, you can add a section that highlights this feature. Here’s how you can integrate it into your Steam Workshop page description:
+2️⃣ Setup Bank
 
-Welcome to ZOMBOT for Discord!
-
-ZOMBOT is a robust Discord bot crafted to elevate your server's functionality with a rich array of features. Whether you're stewarding a vibrant gaming community, managing a bustling social hub, or nurturing any type of group, ZOMBOT offers indispensable tools to ensure seamless operation.
-
-Feature Highlights:
-
-✅ Custom Posts
-Create beautifully embedded messages in any channel.
+Set up a banking system within your server. Users can manage their accounts securely, including deposits, withdrawals, transfers, loans, investments, and more for your game server.
 
 🛠️ Moderation Tools
-Ensure a well-moderated server environment.
 
-Anti-Spam: Automatically filters out all shared links across channels.
-Support Tickets: Establishes a ticket system for efficient Discord support.
-🔄 Setup Bank
-Manage your community's economy with ease.
+Ensure a safe and enjoyable environment with powerful moderation tools:
 
-Check your balance using !balance
-Deposit funds with !deposit
-Withdraw funds using !withdraw
-Transfer money with !transfer
-Apply for loans using !loan
-Make investments using !invest
-View transaction history with !history
-Perform currency exchange using !exchange
-Setup Jobs
-Engage users with ways to earn in-server currency.
+1️⃣ Links Blocking
 
--Crime
--Work
--Hack
-------------------------------------------------------------------------------------------------------
-Setup Mods = Modlist
+Automatically block links and issue warnings to users. Owners can customize allowed links or disable the feature as needed.
 
-People add suggest mods to be added/changed/removed and the server owner can mark them as installed also the
-bot uses only https://steamcommunity.com/sharedfiles/
+2️⃣ Spam Detection
 
-------------------------------------------------------------------------------------------------------
-Curate your server with community-suggested mods.
+Detect and manage spam effectively by issuing warnings for excessive tagging or posting.
 
-Users suggest mods via HTTPS Steam Workshop links.
-Server owner marks mods as installed.
-Mod Compatibility: ZOMBOT verifies if mods require other mods to function properly, ensuring seamless integration and compatibility within your server.
+🎮 Game Server Tools
 
+Connect ZOMBOT to your game server:
 
-ZOMBOT DISCORD:
+1️⃣ Setup Server Posts
 
-I've established a dedicated Discord server for ongoing development and feature requests for the ZOMBOT game server management bot. Stay updated on new features, share your feedback, and connect with fellow enthusiasts!
+Create predefined messages to inform players about server status changes:
 
-Invite Bot:
-(COMING SOON)
+Server Online
+Server Restarting
+Server Under Maintenance
+
+2️⃣ Setup Server Info
+
+Set up embedded messages to display game server details across any channel. Provide:
+
+Server Name
+IP Address
+Port
+Player Slots
+Installed Mods
+
+This setup ensures ZOMBOT enhances your Discord experience with tailored features for moderation, community management, and game server integration.
